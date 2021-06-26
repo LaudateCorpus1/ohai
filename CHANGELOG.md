@@ -1,20 +1,27 @@
 # Change Log
 
-<!-- latest_release 17.0.43 -->
-## [v17.0.43](https://github.com/chef/ohai/tree/v17.0.43) (2021-05-02)
+<!-- latest_release 17.2.0 -->
+## [v17.2.0](https://github.com/chef/ohai/tree/v17.2.0) (2021-06-17)
 
 #### Merged Pull Requests
-- Add Rocky Linux as RHEL platform_family [#1663](https://github.com/chef/ohai/pull/1663) ([tas50](https://github.com/tas50))
+- Add Virtuozzo as RHEL platform_family [#1670](https://github.com/chef/ohai/pull/1670) ([robertmasztalerz](https://github.com/robertmasztalerz))
 <!-- latest_release -->
 
-<!-- release_rollup since=17.0.42 -->
+<!-- release_rollup since=17.1.0 -->
 ### Changes not yet released to rubygems.org
 
 #### Merged Pull Requests
-- Add Rocky Linux as RHEL platform_family [#1663](https://github.com/chef/ohai/pull/1663) ([tas50](https://github.com/tas50)) <!-- 17.0.43 -->
+- Add Virtuozzo as RHEL platform_family [#1670](https://github.com/chef/ohai/pull/1670) ([robertmasztalerz](https://github.com/robertmasztalerz)) <!-- 17.2.0 -->
 <!-- release_rollup -->
 
 <!-- latest_stable_release -->
+## [v17.1.0](https://github.com/chef/ohai/tree/v17.1.0) (2021-05-13)
+
+#### Merged Pull Requests
+- Add Rocky Linux as RHEL platform_family [#1663](https://github.com/chef/ohai/pull/1663) ([tas50](https://github.com/tas50))
+- Update the readme copyright [#1664](https://github.com/chef/ohai/pull/1664) ([tas50](https://github.com/tas50))
+<!-- latest_stable_release -->
+
 ## [v17.0.42](https://github.com/chef/ohai/tree/v17.0.42) (2021-04-27)
 
 #### Merged Pull Requests
@@ -61,7 +68,6 @@
 - Update minimum version of chef-config [#1659](https://github.com/chef/ohai/pull/1659) ([pravi](https://github.com/pravi))
 - Use filter_map where we can [#1656](https://github.com/chef/ohai/pull/1656) ([tas50](https://github.com/tas50))
 - Chef 17: Set &#39;filesystem&#39; to be new-style data on Windows [#1662](https://github.com/chef/ohai/pull/1662) ([jaymzh](https://github.com/jaymzh))
-<!-- latest_stable_release -->
 
 ## [v16.8.1](https://github.com/chef/ohai/tree/v16.8.1) (2020-12-11)
 
